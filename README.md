@@ -11,7 +11,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lazizbek-mirkomilov-909378306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lazizbek-mirkomilov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/Lazizbek_Mirkomilov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
